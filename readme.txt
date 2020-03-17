@@ -1,2 +1,2 @@
-Git is a version control system.
+Git is a distributed version control system.
 now I will leran this for two days.
